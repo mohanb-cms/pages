@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: /pages/
 markdown: redcarpet
 name: 18F Pages
 exclude:
